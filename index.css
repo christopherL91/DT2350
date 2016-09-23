@@ -1,5 +1,13 @@
+body,html {
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
 #card {
     padding: 50px;
+    height: 100%;
 }
 
 #title {
